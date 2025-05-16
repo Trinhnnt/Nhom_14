@@ -48,7 +48,10 @@ khoản và nộp tiền nếu số tiền nộp là hợp lệ.
 đó lên một listview(hoặc datatable) bên dưới. 
 
 + Nếu loại tài khoản là Saving thì hiển thị một cửa sổ bao gồm thông tin về số tài khoản, họ tên, địa chỉ và số điện thoại. Một nút ”Back” để đóng cửa sổ và quay lại màn hình trước đó.
+
  ![image](https://github.com/user-attachments/assets/d141f078-5efb-4985-89fd-07b570219537)
+ 
 + Nếu đăng nhập thất bại thì sẽ thông báo cụ thể sai username hoặc password. Việc đăng nhập không thể thực hiện quá 3 lần.
+  
  ![image](https://github.com/user-attachments/assets/bb36cd37-a4b3-4382-ae1b-77721991efa6)
 
